@@ -1,3 +1,7 @@
+### 文件说明
+subfont2bdf.c 用于将plan9port中的lucm字体subfont转成通用的bdf格式。
+font.py则是读取font文件，用ascii字符显示图形的工具。
+
 ### 如何安装字体
 
 1. bdftopcf xx.bdf > xx.pcf
